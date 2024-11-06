@@ -1,0 +1,11 @@
+Package: eezareas
+Title: EEZ areas
+Version: 0.0.0.9000
+Authors@R: 
+    person("Francisco", "Abascal", , "francisco.abascal@ieo.csic.es", role = c("aut", "cre"))
+Description: Provides soverign country and territory given vectors of longitudes and latitudes
+License: use_mit_license()
+Imports: sp
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
